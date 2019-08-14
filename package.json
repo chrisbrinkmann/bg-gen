@@ -1,0 +1,22 @@
+{
+  "name": "bg-gen",
+  "version": "1.0.0",
+  "description": "Background gradient generator",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbrinkmann/bg-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbrinkmann/bg-gen/issues"
+  },
+  "homepage": "https://github.com/chrisbrinkmann/bg-gen#readme",
+  "dependencies": {
+    "lodash-core": "^4.17.15"
+  }
+}
